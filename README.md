@@ -1,4 +1,4 @@
-This is a repository for a Final Year Project (FYP): Removal of Vessels for Improved Remote Sensing of Coastal Areas by Yeong Yoong Sze
+This is a repository for a Final Year Project (FYP): Removal of Vessels from Imagery for Improved Remote Sensing of Coastal Areas by Yeong Yoong Sze
 
 School of Civil and Environmental Engineering, Nanyang Technological University, Singapore
 
